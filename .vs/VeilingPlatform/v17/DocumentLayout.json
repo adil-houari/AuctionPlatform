@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\controllers\\auctionitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\controllers\\auctionitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\services\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\services\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\repositories\\auctionitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\repositories\\auctionitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\entities\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\entities\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\entities\\auctionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\entities\\auctionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\entities\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\entities\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D6A2E1-FBC4-4FFD-9777-4C5F608E7549}|VeilingPlatform.Tests\\VeilingPlatform.Tests.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform.tests\\auctionitemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D6A2E1-FBC4-4FFD-9777-4C5F608E7549}|VeilingPlatform.Tests\\VeilingPlatform.Tests.csproj|solutionrelative:veilingplatform.tests\\auctionitemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\repositories\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\repositories\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\repositories\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\repositories\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\dto\\authentication\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\dto\\authentication\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\dto\\authentication\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\dto\\authentication\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\dto\\authentication\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\dto\\authentication\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|c:\\users\\adilh\\onedrive\\bureau\\school chakal\\applicationdev\\ad-project-api-adilhouari\\veilingplatform\\veilingplatform\\dto\\auctionitems\\createauctionitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C73081-C406-43BE-97B6-DCA0D384E9AC}|VeilingPlatform\\VeilingPlatform.csproj|solutionrelative:veilingplatform\\dto\\auctionitems\\createauctionitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Services\\IFavoriteService.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Services\\IFavoriteService.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Services\\IFavoriteService.cs",
+              "RelativeToolTip": "VeilingPlatform\\Services\\IFavoriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:56:52.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuctionItemController.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Controllers\\AuctionItemController.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Controllers\\AuctionItemController.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Controllers\\AuctionItemController.cs",
+              "RelativeToolTip": "VeilingPlatform\\Controllers\\AuctionItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:54:34.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuctionItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Repositories\\AuctionItemRepository.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Repositories\\AuctionItemRepository.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Repositories\\AuctionItemRepository.cs",
+              "RelativeToolTip": "VeilingPlatform\\Repositories\\AuctionItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:45:34.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Program.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Program.cs",
+              "RelativeToolTip": "VeilingPlatform\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwDoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:52:42.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Entities\\Category.cs",
+              "RelativeToolTip": "VeilingPlatform\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:46:11.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Entities\\Bid.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Entities\\Bid.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Entities\\Bid.cs",
+              "RelativeToolTip": "VeilingPlatform\\Entities\\Bid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:46:09.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuctionItem.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Entities\\AuctionItem.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Entities\\AuctionItem.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Entities\\AuctionItem.cs",
+              "RelativeToolTip": "VeilingPlatform\\Entities\\AuctionItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:46:03.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Entities\\Favorite.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Entities\\Favorite.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Entities\\Favorite.cs",
+              "RelativeToolTip": "VeilingPlatform\\Entities\\Favorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:46:12.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuctionItemServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform.Tests\\AuctionItemServiceTests.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform.Tests\\AuctionItemServiceTests.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform.Tests\\AuctionItemServiceTests.cs",
+              "RelativeToolTip": "VeilingPlatform.Tests\\AuctionItemServiceTests.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAswA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T02:19:14.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuctionController.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Controllers\\AuctionController.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Controllers\\AuctionController.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Controllers\\AuctionController.cs",
+              "RelativeToolTip": "VeilingPlatform\\Controllers\\AuctionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:45:15.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Controllers\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Controllers\\FavoriteController.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Controllers\\FavoriteController.cs",
+              "RelativeToolTip": "VeilingPlatform\\Controllers\\FavoriteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:58:33.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Repositories\\IFavoriteRepository.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Repositories\\IFavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Repositories\\IFavoriteRepository.cs",
+              "RelativeToolTip": "VeilingPlatform\\Repositories\\IFavoriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:56:28.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Repositories\\FavoriteRepository.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Repositories\\FavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Repositories\\FavoriteRepository.cs",
+              "RelativeToolTip": "VeilingPlatform\\Repositories\\FavoriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:56:39.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "VeilingPlatform\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwGgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:54:11.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "VeilingPlatform\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAArwBcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T02:17:37.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\DTO\\Authentication\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\DTO\\Authentication\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\DTO\\Authentication\\ResponseDto.cs",
+              "RelativeToolTip": "VeilingPlatform\\DTO\\Authentication\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:45:58.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\DTO\\Authentication\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\DTO\\Authentication\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\DTO\\Authentication\\RegisterUserDto.cs",
+              "RelativeToolTip": "VeilingPlatform\\DTO\\Authentication\\RegisterUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:45:57.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\DTO\\Authentication\\LoginDto.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\DTO\\Authentication\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\DTO\\Authentication\\LoginDto.cs",
+              "RelativeToolTip": "VeilingPlatform\\DTO\\Authentication\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:45:52.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateAuctionItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\DTO\\AuctionItems\\CreateAuctionItemDto.cs",
+              "RelativeDocumentMoniker": "VeilingPlatform\\DTO\\AuctionItems\\CreateAuctionItemDto.cs",
+              "ToolTip": "C:\\Users\\AdilH\\OneDrive\\Bureau\\school chakal\\ApplicationDev\\ad-project-api-adilhouari\\VeilingPlatform\\VeilingPlatform\\DTO\\AuctionItems\\CreateAuctionItemDto.cs",
+              "RelativeToolTip": "VeilingPlatform\\DTO\\AuctionItems\\CreateAuctionItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:45:48.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
